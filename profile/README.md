@@ -8,12 +8,12 @@ Design : https://ristek.link/UI-BaliGuide
 
 ---
 ### Meet our developers : 
-1. [Rony Samuel Sinaga](https://github.com/ronysamuel29) From Machine Learning
-2. [Reyhan Vito Idham Pratama](https://github.com/reyhanvito) From Machine Learning
-3. [Carlos Manuel P Situmorang](https://github.com/Manuers123) From Machine Learning
-4. [Azhar Salsabila Naqiyah](https://github.com/azharsalsabilaa) From Cloud Computing
-5. Marchelina Naftaly Romauly Tobing From Cloud Computing
-6. [Fransiskus David Yudaputra](https://github.com/CicusAjadah) From Mobile Development
+1. [Rony Samuel Sinaga](https://github.com/ronysamuel29) From _**Machine Learning**_
+2. [Reyhan Vito Idham Pratama](https://github.com/reyhanvito) From _**Machine Learning**_
+3. [Carlos Manuel P Situmorang](https://github.com/Manuers123) From _**Machine Learning**_
+4. [Azhar Salsabila Naqiyah](https://github.com/azharsalsabilaa) From _**Cloud Computing**_
+5. Marchelina Naftaly Romauly Tobing From _**Cloud Computing**_
+6. [Fransiskus David Yudaputra](https://github.com/CicusAjadah) From _**Mobile Development**_
 
 ---
 ### Features That Already Done
