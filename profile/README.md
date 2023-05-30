@@ -1,3 +1,5 @@
+<img alt="banner koding" src="./profile/BaliGuide.png">
+
 # BaliGuide : “Recommended Places in Bali Based on your interests”
 ---
 **BaliGuide** aims to show specifically destinations like cafes, culinary, and hotels for someone who wants to go to Bali. Because sometimes people find that Bali has a lot of places to visit, so it could be confusing for them to find the place that matches their interests. The features of this application can be distinguished from the others like Tourist Destinations, Hotel, Cafe, Traditional Food, or Souvenirs each have their own features to get users input. And also we will try to merge all of them to one feature which is Travel-Package. 
