@@ -18,10 +18,10 @@ Design : https://ristek.link/UI-BaliGuide
 ---
 ### Features That Already Done
 
-- [ ] Cafes Destination
-- [ ] Souvenir Destination
-- [ ] Hotel Destination
-- [ ] Restaurant Destination
-- [ ] Tourist Attraction Destination
+- [x] Cafes Destination
+- [x] Souvenir Destination
+- [x] Hotel Destination
+- [x] Restaurant Destination
+- [x] Tourist Attraction Destination
 
 This project is made to fulfill the **[Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/)** Product Capstone.
